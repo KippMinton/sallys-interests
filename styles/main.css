@@ -1,0 +1,14 @@
+body {
+}
+.interest {
+  flex-basis: 14%;
+  border: 1px dotted crimson;
+  padding: 1em;
+  margin: 0.5em;
+  text-align: center;
+}
+.bio__interests {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
